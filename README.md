@@ -1,2 +1,2 @@
 # hallo-github
-Mein erstes Projekt auf GitHub
+Mein erstes Projekt auf GitHub.
